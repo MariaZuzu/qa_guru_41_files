@@ -1,0 +1,14 @@
+{
+  "id": "552397078380755968",
+  "type": "vehicleV1",
+  "name": "Авто 2",
+  "items": {
+    "billId": "27850139720534546749",
+    "name": "Штрафы",
+    "billInfo": [
+      "lastUpdateDate",
+      "amount",
+      "currency"
+    ]
+  }
+}
