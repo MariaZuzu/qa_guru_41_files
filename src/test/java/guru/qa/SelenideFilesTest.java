@@ -154,7 +154,8 @@ public class SelenideFilesTest {
             }
         }
 
-    void jsonSelenideFilesTest() throws Exception {
+        @Test
+        void jsonSelenideFilesTest() throws Exception {
         Path path;
         path = Path.of(getClass().getClassLoader().getResource("carfines.json").toURI());
         String json = Files.readString(path);

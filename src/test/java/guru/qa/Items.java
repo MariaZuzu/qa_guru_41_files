@@ -10,7 +10,7 @@ public class Items {
         return billId;
     }
 
-    public void setBillId(String model) {
+    public void setBillId(String billId) {
         this.billId = billId;
     }
 
